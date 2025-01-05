@@ -1,0 +1,1 @@
+This repository demonstrates a common mistake in React's `useEffect` hook: forgetting to include a cleanup function and logging to the console in an incorrect way. The `bug.js` file shows the incorrect implementation, while `bugSolution.js` provides the corrected version.
